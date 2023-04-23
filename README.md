@@ -17,7 +17,7 @@ I would revise the performance requirements by being more specific such as expli
   
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing? 
 
-I interpreted the user’s needs by studying the interview transcript to determine the functional requirements to bring value to the user and fulfill the system’s purpose. It’s important to consider the user’s needs in designing a system because ultimately the user will be engaging with the system within their daily life and will be expecting a user-friendly experience that gives them functional value. Essentially, if we build a system that does not meet the user’s needs, the system will not serve its purpose. 
+I interpreted the user’s needs by studying the interview transcript to determine the functional requirements that will bring value to the user and fulfill the system’s purpose. It’s important to consider the user’s needs in designing a system because ultimately the user will be engaging with the system within their daily life and will be expecting a user-friendly experience that gives them functional value. Essentially, if we build a system that does not meet the user’s needs, the system will not serve its purpose. 
 
  
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system? 
