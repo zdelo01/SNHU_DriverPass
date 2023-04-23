@@ -7,7 +7,7 @@ The DriverPass is a business that seeks to enter the market to aid students in p
     
 # What did you do particularly well? 
 
-I created UML diagrams for this project that are organized, functional, and easy to understand for the client. I also broke down the required system components clearly with minimal technical jargon for the nontechnical audience.  
+I created UML diagrams for this project that are organized, functional, and easy to understand for the client and peers. I also broke down the required system components clearly with minmial technical terms for the nontechnical audience. I organized simple technical requirements and explained how they meet the functional & nonfunctional requirements for the system.  
 
      
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it? 
